@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Seonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonmin12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonmin12&layout=compact)
 
 <!--
 **seonmin12/seonmin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

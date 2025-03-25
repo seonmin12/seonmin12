@@ -5,6 +5,21 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About myself </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 꾸준한 성장을 지향하는 새싹 개발자 김선민입니다.🌱<br>Hello! I'm Seonmin from South Korea, working to get better at both programming and life. </div> 
     </div>
+
+    
+## 🎓 Education
+
+🇰🇷 **Bachelor’s Degree in Geography** – Faculty of Science, Kyung Hee University  
+🇳🇴 **Exchange Student** – Faculty of Social Science, University of Oslo  
+💻 Currently in the **Java Backend Developer Course** at Shinsegae I&C
+
+
+
+## 🌍 Languages
+
+🇰🇷 Korean – Native  
+🇺🇸 English – Intermediate High  
+🇩🇪 German – Beginner
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">

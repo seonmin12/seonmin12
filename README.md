@@ -1,4 +1,7 @@
-## Hi there 👋
+## Seonmin's space 🌱
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!&fontSize=90)
+---
+
 
 ![Seonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonmin12&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonmin12&layout=compact)

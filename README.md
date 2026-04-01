@@ -22,7 +22,7 @@
 
 ## 📦 Projects
 
-### LINKI (Influencer Matching Platform)
+### LINKI (Influencer-Advertiser Matching Platform)
 - Service flow design (proposal → contract → settlement)  
   (서비스 흐름 설계)
 - REST API development (Spring Boot)  

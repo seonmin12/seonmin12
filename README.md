@@ -17,7 +17,7 @@
 ## 🌍 Languages
 
 🇰🇷 Korean – Native  
-🇺🇸 English – Intermediate High  
+🇺🇸 English – Fluent  
 🇩🇪 German – Beginner
 
 ## 📦 Projects
